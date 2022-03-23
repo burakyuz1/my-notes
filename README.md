@@ -6,6 +6,10 @@ The achievements I aim for in this project
 * Using bootstrap, mui, axios with React
 * useState and useEffect
 
+
+![image](https://raw.githubusercontent.com/burakyuz1/my-notes/master/usage.gif)
+
+
 ```
 Initial Commands .Net Core Api
 * Update-Database
@@ -16,8 +20,6 @@ Initial Commands React
 * npm install
 * npm start
 ```
-
-
 
 ## Sources
 
